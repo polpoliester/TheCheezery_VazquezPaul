@@ -23,7 +23,7 @@
         android:text="@string/our_menu"
         android:textAllCaps="true"
         android:layout_gravity="center_horizontal"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:layout_marginTop="10dp"/>
 
     <GridLayout
